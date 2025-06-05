@@ -142,6 +142,7 @@ with a status code of 0.
 
 @exampleindent 0
 @example
+This version is used to perform research within master thesis scope.
 ntpd - NTP daemon program - Ver. 4.2.8p15
 Usage:  ntpd [ -<flag> [<val>] | --<name>[@{=| @}<val>] ]... \
                 [ <server1> ... <serverN> ]
