@@ -210,7 +210,7 @@ static char const ntpd_opt_strs[3132] =
             "\t\t[ <server1> ... <serverN> ]\n\0"
 /*  3082 */ "http://bugs.ntp.org, bugs@ntp.org\0"
 /*  3116 */ "\n\0"
-/*  3118 */ "ntpd 4.2.8p15";
+/*  3118 */ "ntpd 4.2.8p15 - used for research";
 
 /**
  *  ipv4 option description with
