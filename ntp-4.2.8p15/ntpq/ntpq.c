@@ -500,6 +500,7 @@ ntpqmain(
 	char *argv[]
 	)
 {
+	printf("This is modified version of NTP. Only for research purposes.\n");
 	u_int ihost;
 	size_t icmd;
 
