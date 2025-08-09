@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="28.0.9" pages="2">
   <diagram name="Page-1" id="c_TSrDUIymWpzcZd_m83">
     <mxGraphModel dx="1426" dy="924" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -350,6 +350,58 @@
         </mxCell>
         <mxCell id="UMOdXyp_HFvyMxkBrHGG-14" value="Stratum 3" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="436" y="2470" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yMWc-WKXke0m8znKlwHi" name="stratum">
+    <mxGraphModel dx="1426" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BYyHRgdvr-olPQvLB3_2-3" target="BYyHRgdvr-olPQvLB3_2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BYyHRgdvr-olPQvLB3_2-3" target="BYyHRgdvr-olPQvLB3_2-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="246.5" y="98" />
+              <mxPoint x="246.5" y="133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-3" value="Stratum 1" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="349.5" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BYyHRgdvr-olPQvLB3_2-6" target="BYyHRgdvr-olPQvLB3_2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BYyHRgdvr-olPQvLB3_2-6" target="BYyHRgdvr-olPQvLB3_2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-6" value="Stratum 2" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="553.5" y="133" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BYyHRgdvr-olPQvLB3_2-9" target="BYyHRgdvr-olPQvLB3_2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BYyHRgdvr-olPQvLB3_2-9" target="BYyHRgdvr-olPQvLB3_2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-9" value="Stratum 2" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="186" y="133" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-10" value="Stratum 3" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="647.5" y="253" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-11" value="Stratum 3" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="253" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-12" value="Stratum 3" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="267" y="253" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYyHRgdvr-olPQvLB3_2-13" value="Stratum 3" style="ellipse;whiteSpace=wrap;html=1;direction=east;flipH=0;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="253" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
